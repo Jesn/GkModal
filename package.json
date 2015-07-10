@@ -1,0 +1,14 @@
+{
+    "name": "GkModal",
+    "title":"GkModal",
+    "description":"GkModal 是基于Bootstrap的一个扩展弹出层插件",
+    "version": "1.0.1",
+    "author":{
+        "name":"Darren",
+        "email":"794382693@qq.com",
+        "url":"https://github.com/Jesn"
+    },
+    "bugs":"https://github.com/Jesn/GkModal/issues",
+    "homepage":"https://github.com/Jesn/GkModal",
+    "demo":"https://github.com/Jesn/GkModal/blob/master/Demo/index.html"
+}
